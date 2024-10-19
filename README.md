@@ -1,4 +1,10 @@
 # bmi
+# صور المشروع
+
+![صورة BMI 1](images/bmi_1.png)
+![صورة BMI 2](images/bmi_2.png)
+![صورة BMI 3](images/bmi_3.png)
+![صورة BMI 4](images/bmi_4.png)
 
 A new Flutter project.
 
