@@ -1,13 +1,13 @@
 # bmi
 # صور المشروع
 
-<img src="images/bmi_1.png" alt="صورة BMI 1" width="300"/>
+<img src="images/bmi_1.png" alt="هذه الصفحه لكتابت البيانات الخاصه بك ليتم احتساب الكتله " width="300"/>
 
-<img src="images/bmi_2.png" alt="صورة BMI 2" width="300"/>
+<img src="images/bmi_2.png" alt="هذه صفحه اخراج النتائج الخاصه بل الحساب وبها 2 bottomms ال bottomm  بلغه الانجليزيه الاول للقراءه الارشادات لمعرفه القراءه الصحيحه للنتائج  وال bottomm الثاني بلغه العرللقراءه الارشادات لمعرفة القراءه الصحيحة للنتائج بلغة العربيه  " width="300"/>
 
-<img src="images/bmi_3.png" alt="صورة BMI 3" width="300"/>
+<img src="images/bmi_3.png" alt="صفحه اللغه الانجليزية " width="300"/>
 
-<img src="images/bmi_4.png" alt="صورة BMI 4" width="300"/>
+<img src="images/bmi_4.png" alt="صفحه اللغه العربية" width="300"/>
 
 
 A new Flutter project.
